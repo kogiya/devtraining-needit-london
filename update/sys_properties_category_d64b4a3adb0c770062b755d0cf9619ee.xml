@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-11 14:23:37</sys_created_on>
+        <sys_id>d64b4a3adb0c770062b755d0cf9619ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_d64b4a3adb0c770062b755d0cf9619ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-11 14:23:37</sys_updated_on>
+        <title><![CDATA[<p><span style="font-size: 18pt; color: #333399;"><img style="align: absmiddle;" src="sys_attachment.do?sys_id&#61;0a4d0276db0c770062b755d0cf96199e" width="53" height="47" align="absmiddle" /><span style="font-family: verdana, geneva;"> <span style="color: #7c3299;">NeedIt Application Properties</span></span></span></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=d64b4a3adb0c770062b755d0cf9619ee"/>
+</record_update>
